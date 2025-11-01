@@ -1,0 +1,5 @@
+# requirements.txt
+aiogram==3.0.0b7
+requests==2.31.0
+fastapi==0.111.0
+uvicorn==0.23.2
